@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLNXveo7OajQnD8b1LO6Kw08rq5seK6p065RlttKQl0pj55lYLSE8C4EXYSM03jfvHmHpgwm2cdGY0LlA8BFWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\CCloud\\OrderManagerWorkerService\\OrderManager\\OrderManager.Entity\\OrderManager.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonio_barros\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\antonio_barros\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

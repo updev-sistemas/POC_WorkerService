@@ -1,0 +1,12 @@
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\bin\Debug\net6.0\OrderManager.ModelDTO.deps.json
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\bin\Debug\net6.0\OrderManager.ModelDTO.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\bin\Debug\net6.0\OrderManager.ModelDTO.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.csproj.AssemblyReference.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.AssemblyInfoInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.AssemblyInfo.cs
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.csproj.CoreCompileInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\refint\OrderManager.ModelDTO.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\OrderManager.ModelDTO.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.ModelDTO\obj\Debug\net6.0\ref\OrderManager.ModelDTO.dll

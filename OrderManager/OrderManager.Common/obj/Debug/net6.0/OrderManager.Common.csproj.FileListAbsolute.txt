@@ -1,0 +1,12 @@
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\bin\Debug\net6.0\OrderManager.Common.deps.json
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\bin\Debug\net6.0\OrderManager.Common.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\bin\Debug\net6.0\OrderManager.Common.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.csproj.AssemblyReference.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.AssemblyInfoInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.AssemblyInfo.cs
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\refint\OrderManager.Common.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\OrderManager.Common.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Common\obj\Debug\net6.0\ref\OrderManager.Common.dll

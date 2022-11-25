@@ -1,0 +1,17 @@
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Database.deps.json
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Database.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Database.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Common.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Entity.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Common.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\bin\Debug\net6.0\OrderManager.Entity.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.csproj.AssemblyReference.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.AssemblyInfoInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.AssemblyInfo.cs
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.csproj.CoreCompileInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.csproj.CopyComplete
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\refint\OrderManager.Database.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\OrderManager.Database.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Database\obj\Debug\net6.0\ref\OrderManager.Database.dll

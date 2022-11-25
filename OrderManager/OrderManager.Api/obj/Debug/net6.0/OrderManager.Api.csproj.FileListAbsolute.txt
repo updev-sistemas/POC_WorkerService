@@ -1,0 +1,17 @@
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.Api.deps.json
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.Api.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.Api.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.Common.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.ModelDTO.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.Common.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\bin\Debug\net6.0\OrderManager.ModelDTO.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.csproj.AssemblyReference.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.AssemblyInfoInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.AssemblyInfo.cs
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.csproj.CoreCompileInputs.cache
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.csproj.CopyComplete
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\refint\OrderManager.Api.dll
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\OrderManager.Api.pdb
+C:\Workspace\CCloud\OrderManagerWorkerService\OrderManager\OrderManager.Api\obj\Debug\net6.0\ref\OrderManager.Api.dll
